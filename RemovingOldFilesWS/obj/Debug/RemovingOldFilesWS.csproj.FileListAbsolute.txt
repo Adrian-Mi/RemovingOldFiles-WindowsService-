@@ -1,0 +1,60 @@
+D:\New folder\RemovingOldFilesWS\RemovingOldFilesWS\bin\Debug\RemovingOldFilesWS.exe.config
+D:\New folder\RemovingOldFilesWS\RemovingOldFilesWS\bin\Debug\RemovingOldFilesWS.exe
+D:\New folder\RemovingOldFilesWS\RemovingOldFilesWS\bin\Debug\RemovingOldFilesWS.pdb
+D:\New folder\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.csproj.AssemblyReference.cache
+D:\New folder\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.csproj.SuggestedBindingRedirects.cache
+D:\New folder\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.ProjectInstaller.resources
+D:\New folder\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.csproj.GenerateResource.cache
+D:\New folder\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.csproj.CoreCompileInputs.cache
+D:\New folder\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.exe
+D:\New folder\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.pdb
+C:\Users\HP\Desktop\RemovingOldFilesWS\RemovingOldFilesWS\bin\Debug\RemovingOldFilesWS.exe.config
+C:\Users\HP\Desktop\RemovingOldFilesWS\RemovingOldFilesWS\bin\Debug\RemovingOldFilesWS.exe
+C:\Users\HP\Desktop\RemovingOldFilesWS\RemovingOldFilesWS\bin\Debug\RemovingOldFilesWS.pdb
+C:\Users\HP\Desktop\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.ProjectInstaller.resources
+C:\Users\HP\Desktop\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.exe
+C:\Users\HP\Desktop\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.pdb
+C:\Users\GIL\Desktop\RemovingOldFilesWS\RemovingOldFilesWS\bin\Debug\RemovingOldFilesWS.exe.config
+C:\Users\GIL\Desktop\RemovingOldFilesWS\RemovingOldFilesWS\bin\Debug\RemovingOldFilesWS.exe
+C:\Users\GIL\Desktop\RemovingOldFilesWS\RemovingOldFilesWS\bin\Debug\RemovingOldFilesWS.pdb
+C:\Users\GIL\Desktop\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.csproj.AssemblyReference.cache
+C:\Users\GIL\Desktop\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIL\Desktop\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.ProjectInstaller.resources
+C:\Users\GIL\Desktop\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.csproj.GenerateResource.cache
+C:\Users\GIL\Desktop\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.csproj.CoreCompileInputs.cache
+C:\Users\GIL\Desktop\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.exe
+C:\Users\GIL\Desktop\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.pdb
+D:\RELA\RemovingOldFilesWS\RemovingOldFilesWS\bin\Debug\RemovingOldFilesWS.exe.config
+D:\RELA\RemovingOldFilesWS\RemovingOldFilesWS\bin\Debug\RemovingOldFilesWS.exe
+D:\RELA\RemovingOldFilesWS\RemovingOldFilesWS\bin\Debug\RemovingOldFilesWS.pdb
+D:\RELA\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.csproj.AssemblyReference.cache
+D:\RELA\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.csproj.SuggestedBindingRedirects.cache
+D:\RELA\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.ProjectInstaller.resources
+D:\RELA\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.csproj.GenerateResource.cache
+D:\RELA\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.csproj.CoreCompileInputs.cache
+D:\RELA\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.exe
+D:\RELA\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.pdb
+C:\Users\GIL\Desktop\RELA\RemovingOldFilesWS\RemovingOldFilesWS\bin\Debug\RemovingOldFilesWS.exe.config
+C:\Users\GIL\Desktop\RELA\RemovingOldFilesWS\RemovingOldFilesWS\bin\Debug\RemovingOldFilesWS.exe
+C:\Users\GIL\Desktop\RELA\RemovingOldFilesWS\RemovingOldFilesWS\bin\Debug\RemovingOldFilesWS.pdb
+C:\Users\GIL\Desktop\RELA\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.csproj.AssemblyReference.cache
+C:\Users\GIL\Desktop\RELA\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIL\Desktop\RELA\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.ProjectInstaller.resources
+C:\Users\GIL\Desktop\RELA\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.csproj.GenerateResource.cache
+C:\Users\GIL\Desktop\RELA\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.csproj.CoreCompileInputs.cache
+C:\Users\GIL\Desktop\RELA\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.exe
+C:\Users\GIL\Desktop\RELA\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.pdb
+C:\Users\GIL\Desktop\neeeeeeew\RemoveOldFilesService\RELA\RemovingOldFilesWS\RemovingOldFilesWS\bin\Debug\RemovingOldFilesWS.exe.config
+C:\Users\GIL\Desktop\neeeeeeew\RemoveOldFilesService\RELA\RemovingOldFilesWS\RemovingOldFilesWS\bin\Debug\RemovingOldFilesWS.exe
+C:\Users\GIL\Desktop\neeeeeeew\RemoveOldFilesService\RELA\RemovingOldFilesWS\RemovingOldFilesWS\bin\Debug\RemovingOldFilesWS.pdb
+C:\Users\GIL\Desktop\neeeeeeew\RemoveOldFilesService\RELA\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.csproj.AssemblyReference.cache
+C:\Users\GIL\Desktop\neeeeeeew\RemoveOldFilesService\RELA\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIL\Desktop\neeeeeeew\RemoveOldFilesService\RELA\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.ProjectInstaller.resources
+C:\Users\GIL\Desktop\neeeeeeew\RemoveOldFilesService\RELA\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.csproj.GenerateResource.cache
+C:\Users\GIL\Desktop\neeeeeeew\RemoveOldFilesService\RELA\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.csproj.CoreCompileInputs.cache
+C:\Users\GIL\Desktop\neeeeeeew\RemoveOldFilesService\RELA\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.exe
+C:\Users\GIL\Desktop\neeeeeeew\RemoveOldFilesService\RELA\RemovingOldFilesWS\RemovingOldFilesWS\obj\Debug\RemovingOldFilesWS.pdb
